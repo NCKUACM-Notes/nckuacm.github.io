@@ -1,0 +1,14 @@
+{
+  "name": "nckuacm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_ejs.js",
+  "scripts": {
+    "gen": "node generate.js"
+  },
+  "author": "HexRabbit",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
+}

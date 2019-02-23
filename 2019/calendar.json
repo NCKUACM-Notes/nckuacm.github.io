@@ -1,0 +1,210 @@
+[
+  {
+    "date": "02/20",
+    "topic": "Introduction",
+    "docs": {
+      "ppt": "https://nckuacm.github.io/2019/slides/week1_1.pptx",
+      "pdf": "https://nckuacm.github.io/2019/slides/week1_1.pdf",
+      "material": "https://hackmd.io/s/B175UeTrV"
+    },
+    "exercise": {
+      "level": "kantan|futsuu|muzugashii",
+      "link": ""
+    },
+    "links": [],
+    "objectives": [
+      "Chia-Heng Tu Talk Show",
+      "成績計算",
+      "競技程式設計介紹",
+      "學期課程規劃"
+    ]
+  },
+  {
+    "date": "02/27",
+    "topic": "Data Structures and Thought method",
+    "docs": [],
+    "links": [],
+    "exercise": {
+      "level": "kantan",
+      "link": "https://hackmd.io/s/rJtAFuTSV"
+    },
+    "objectives": [
+      "IO, Basic programming",
+      "STL: vector, string, sort",
+      "Complex analysis",
+      "Thought methods"
+    ]
+  },
+  {
+    "date": "03/06",
+    "topic": "Data Structures",
+    "docs": [],
+    "links": [],
+    "contest": "true",
+    "objectives": [
+      "Array",
+      "Queue",
+      "Stack",
+      "Linked list"
+    ]
+  },
+  {
+    "date": "03/13",
+    "topic": "Data Structures & Searching",
+    "docs": [],
+    "links": [],
+    "objectives": [
+      "STL: set, map, priority_queue",
+      "Tree",
+      "Graph",
+      "Disjoint set",
+      "DFS, BFS"
+    ]
+  },
+  {
+    "date": "03/20",
+    "topic": "Searching",
+    "docs": [],
+    "links": [],
+    "contest": "true",
+    "objectives": [
+      "Binary search",
+      "lower_bound, upper_bound"
+    ]
+  },
+  {
+    "date": "03/27",
+    "topic": "Sorting",
+    "docs": [],
+    "links": [],
+    "contest": "true",
+    "objectives": [
+      "Merge sort",
+      "Counting sort"
+    ]
+  },
+  {
+    "date": "04/03",
+    "topic": "Holiday(self training)",
+    "docs": [],
+    "links": [],
+    "objectives": [
+      "Bonus * 1.5"
+    ]
+  },
+  {
+    "date": "04/10",
+    "topic": "ITSA & PTC",
+    "docs": [],
+    "links": [
+      "https://sites.google.com/site/itsancku/home"
+    ],
+    "objectives": [
+      "Buffet"
+    ]
+  },
+  {
+    "date": "04/17",
+    "topic": "Dynamic Programming",
+    "docs": [],
+    "links": [],
+    "objectives": [
+      "Fibonacci sequence",
+      "Knapsack problem",
+      "greedy method",
+      "LIS",
+      "LCS"
+    ]
+  },
+  {
+    "date": "04/24",
+    "topic": "DP contest",
+    "docs": [],
+    "links": [],
+    "contest": true,
+    "objectives": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "date": "05/01",
+    "topic": "Graph",
+    "docs": [],
+    "links": [],
+    "objectives": [
+      "Minimum Spanning Tree",
+      "A* search",
+      "Single-Source Shortest Paths",
+      "All-Pairs Shortest Paths"
+    ]
+  },
+  {
+    "date": "05/08",
+    "topic": "Graph contest",
+    "docs": [],
+    "links": [],
+    "contest": true,
+    "objectives": [
+      "Graph"
+    ]
+  },
+  {
+    "date": "05/15",
+    "topic": "Graph",
+    "docs": [],
+    "links": [],
+    "objectives": [
+      "Articulation point",
+      "Strongly Connected Components",
+      "Maximum flow"
+    ]
+  },
+  {
+    "date": "05/22",
+    "topic": "Number theory",
+    "docs": [],
+    "links": [],
+    "contest": true,
+    "objectives": [
+      "Modulus",
+      "Greatest Common Divisor"
+    ]
+  },
+  {
+    "date": "05/29",
+    "topic": "Number theory & Calculation",
+    "docs": [],
+    "links": [],
+    "objectives": [
+      "Prime",
+      "Float FUCK",
+      "Karatsuba",
+      "Fast Exponential"
+    ]
+  },
+  {
+    "date": "06/05",
+    "topic": "Contest & Contest & Contest",
+    "docs": [],
+    "links": [],
+    "contest": true,
+    "objectives": []
+  },
+  {
+    "date": "06/12",
+    "topic": "ITSA & PTC",
+    "docs": [],
+    "links": [],
+    "objectives": []
+  },
+  {
+    "date": "06/19",
+    "topic": "Contest & Contest & Contest again",
+    "docs": [],
+    "links": [],
+    "contest": true,
+    "objectives": [
+      "Buffet"
+    ]
+  }
+]
