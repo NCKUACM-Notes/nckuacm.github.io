@@ -22,7 +22,9 @@
   {
     "date": "02/27",
     "topic": "Data Structures and Thought method",
-    "docs": [],
+    "docs": {
+      "material": "https://hackmd.io/s/r14Do56HN"
+    },
     "links": [],
     "exercise": {
       "level": "kantan",
