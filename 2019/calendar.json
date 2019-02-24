@@ -31,7 +31,7 @@
     "objectives": [
       "IO, Basic programming",
       "STL: vector, string, sort",
-      "Complex analysis",
+      "Complexity analysis",
       "Thought methods"
     ]
   },
@@ -42,10 +42,7 @@
     "links": [],
     "contest": "true",
     "objectives": [
-      "Array",
-      "Queue",
-      "Stack",
-      "Linked list"
+      "STL: queue, stack, list"
     ]
   },
   {
@@ -85,7 +82,7 @@
   },
   {
     "date": "04/03",
-    "topic": "Holiday(self training)",
+    "topic": "Holiday (self training)",
     "docs": [],
     "links": [],
     "objectives": [
