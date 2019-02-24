@@ -4,5 +4,8 @@
   - `npm install`
   - `npm run gen`
 
+- 修改 Syllabus
+  - `vim calendar.json`
+
 - 修改版面
-  - edit `index.ejs`
+  - `vim index.ejs`
