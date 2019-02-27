@@ -3,8 +3,8 @@
     "date": "02/20",
     "topic": "Introduction",
     "docs": {
-      "ppt": "https://nckuacm.github.io/2019/slides/week1_1.pptx",
-      "pdf": "https://nckuacm.github.io/2019/slides/week1_1.pdf",
+      "ppt": "./slides/week1_1.pptx",
+      "pdf": "./slides/week1_1.pdf",
       "material": "https://hackmd.io/s/B175UeTrV"
     },
     "exercise": {
