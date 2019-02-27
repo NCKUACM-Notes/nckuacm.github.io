@@ -23,6 +23,8 @@
     "date": "02/27",
     "topic": "Data Structures and Thought method",
     "docs": {
+      "ppt": "./slides/week2_1.pptx",
+      "pdf": "./slides/week2_1.pdf",
       "material": "https://hackmd.io/s/r14Do56HN"
     },
     "links": [],
