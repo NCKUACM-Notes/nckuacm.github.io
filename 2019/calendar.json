@@ -42,7 +42,9 @@
   {
     "date": "03/06",
     "topic": "Data Structures",
-    "docs": [],
+    "docs": {
+      "material": "https://hackmd.io/s/Hy4B5cDL4#"
+    },
     "links": [],
     "contest": "true",
     "objectives": [
