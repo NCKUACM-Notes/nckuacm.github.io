@@ -46,6 +46,10 @@
       "material": "https://hackmd.io/s/Hy4B5cDL4#"
     },
     "links": [],
+    "exercise": {
+      "level": "kantan",
+      "link": "https://hackmd.io/s/rJ19JTvUE"
+    },
     "contest": "true",
     "objectives": [
       "STL: queue, stack, list"
