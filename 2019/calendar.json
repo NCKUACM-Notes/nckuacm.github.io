@@ -43,6 +43,8 @@
     "date": "03/06",
     "topic": "Data Structures",
     "docs": {
+      "ppt": "./slides/week3_1.pptx",
+      "pdf": "./slides/week3_1.pdf",
       "material": "https://hackmd.io/s/Hy4B5cDL4#"
     },
     "links": [],
