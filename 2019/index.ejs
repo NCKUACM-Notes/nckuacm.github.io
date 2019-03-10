@@ -68,6 +68,11 @@
                 <i class="fab fa-pagelines" aria-hidden="true"></i>
               </a>
               <% } %>
+              <% if(day.docs.solution) { %>
+              <a title="Solution" href=<%= day.docs.solution %> target="_blank">
+                <i class="fas fa-tint" aria-hidden="true"></i>
+              </a>
+              <% } %>
               <% if(day.exercise) { %>
               <% if(day.exercise.level == "kantan") { %>
               <a title="Exercise" href=<%= day.exercise.link %> target="_blank">
