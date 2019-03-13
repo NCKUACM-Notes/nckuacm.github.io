@@ -62,6 +62,8 @@
     "date": "03/13",
     "topic": "Data Structures & Searching",
     "docs": {
+      "ppt": "./slides/week4_1.pptx",
+      "pdf": "./slides/week4_1.pdf",
       "material": "https://hackmd.io/s/SJ7nxwRL4#"
     },
     "links": [],
