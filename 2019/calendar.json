@@ -75,7 +75,7 @@
       "STL: set, map, priority_queue",
       "Tree",
       "Graph",
-      "Disjoint set",
+      "Disjoint sets",
       "DFS, BFS"
     ]
   },
