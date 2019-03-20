@@ -83,6 +83,8 @@
     "date": "03/20",
     "topic": "Searching",
     "docs": {
+      "ppt": "./slides/week5_1.pptx",
+      "pdf": "./slides/week5_1.pdf",
       "material": "https://hackmd.io/s/Skp3TOsP4#"
     },
     "links": [],
