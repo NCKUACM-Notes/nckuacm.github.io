@@ -89,6 +89,10 @@
       "solution": "https://hackmd.io/s/HJhrUxed4"
     },
     "links": [],
+    "exercise": {
+      "level": "futsuu",
+      "link": "https://hackmd.io/s/HJbbpvMuE"
+    },
     "contest": "true",
     "objectives": [
       "Binary search",
