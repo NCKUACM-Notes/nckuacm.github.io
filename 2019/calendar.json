@@ -103,9 +103,10 @@
     "date": "03/27",
     "topic": "Sorting",
     "docs": {
-      "material": "https://hackmd.io/s/rkIHhGZ_4",
       "ppt": "./slides/week6_1.pptx",
-      "pdf": "./slides/week6_1.pdf"
+      "pdf": "./slides/week6_1.pdf",
+      "material": "https://hackmd.io/s/rkIHhGZ_4",
+      "solution": "https://hackmd.io/s/SJMGkNFOV"
     },
     "links": [],
     "contest": "true",
