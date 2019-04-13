@@ -127,7 +127,9 @@
   {
     "date": "04/10",
     "topic": "Buffet contest",
-    "docs": [],
+    "docs": {
+      "solution": "https://codeforces.com/blog/entry/63274"
+    },
     "links": [],
     "contest": "true",
     "objectives": [
