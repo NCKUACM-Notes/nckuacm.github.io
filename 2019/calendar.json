@@ -139,7 +139,11 @@
   {
     "date": "04/17",
     "topic": "Dynamic Programming",
-    "docs": [],
+    "docs": {
+      "ppt": "./slides/week9_1.pptx",
+      "pdf": "./slides/week9_1.pdf",
+      "material": "https://hackmd.io/s/ByfT8JZ9E"
+    },
     "links": [],
     "objectives": [
       "Fibonacci sequence",
