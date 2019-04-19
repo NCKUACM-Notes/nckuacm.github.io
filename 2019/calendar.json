@@ -145,6 +145,10 @@
       "material": "https://hackmd.io/s/ByfT8JZ9E"
     },
     "links": [],
+    "exercise": {
+      "level": "muzukashii",
+      "link": "https://hackmd.io/s/H1SVIB4cN"
+    },
     "objectives": [
       "Fibonacci sequence",
       "Knapsack problem",
