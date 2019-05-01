@@ -173,6 +173,8 @@
     "date": "05/01",
     "topic": "Graph",
     "docs": {
+      "ppt": "./slides/week11_1.pptx",
+      "pdf": "./slides/week11_1.pdf",
       "material": "https://hackmd.io/s/SkCtEVcq4"
     },
     "links": [],
