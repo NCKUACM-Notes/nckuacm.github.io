@@ -178,6 +178,10 @@
       "material": "https://hackmd.io/s/SkCtEVcq4"
     },
     "links": [],
+    "exercise": {
+      "level": "muzukashii",
+      "link": "https://hackmd.io/s/rJSy4HZoN"
+    },
     "objectives": [
       "Minimum Spanning Tree",
       "A* search",
