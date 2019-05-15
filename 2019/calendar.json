@@ -202,7 +202,11 @@
   {
     "date": "05/15",
     "topic": "Graph",
-    "docs": [],
+    "docs": {
+      "ppt": "./slides/week13_1.pptx",
+      "pdf": "./slides/week13_1.pdf",
+      "material": "https://hackmd.io/s/r1kY-zm2N"
+    },
     "links": [],
     "objectives": [
       "Articulation point",
