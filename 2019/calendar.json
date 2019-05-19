@@ -210,6 +210,10 @@
       "material": "https://hackmd.io/s/r1kY-zm2N"
     },
     "links": [],
+    "exercise": {
+      "level": "futsuu",
+      "link": "https://hackmd.io/s/H1FCGeka4"
+    },
     "objectives": [
       "Articulation point",
       "Strongly Connected Components",
