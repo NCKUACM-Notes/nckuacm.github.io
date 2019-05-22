@@ -223,7 +223,11 @@
   {
     "date": "05/22",
     "topic": "Number theory",
-    "docs": [],
+    "docs": {
+      "ppt": "./slides/week14_1.pptx",
+      "pdf": "./slides/week14_1.pdf",
+      "material": "https://hackmd.io/s/ry2nzpZT4"
+    },
     "links": [],
     "contest": true,
     "objectives": [
