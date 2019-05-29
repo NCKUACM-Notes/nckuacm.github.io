@@ -239,7 +239,10 @@
   {
     "date": "05/29",
     "topic": "Number theory & Calculation",
-    "docs": [],
+    "docs": {
+      "ppt": "./slides/week15_1.pptx",
+      "pdf": "./slides/week15_1.pdf"
+    },
     "links": [],
     "objectives": [
       "Prime",
