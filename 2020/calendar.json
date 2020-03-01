@@ -1,7 +1,7 @@
 [
   {
     "date": "03/04",
-    "topic": "Introduction",
+    "topic": "Introduction*",
     "docs": {
     },
     "exercise": {
@@ -50,7 +50,7 @@
   },
   {
     "date": "03/25",
-    "topic": "Searching Contest",
+    "topic": "Searching Contest*",
     "docs": {
     },
     "links": [],
@@ -82,7 +82,7 @@
   },
   {
     "date": "04/08",
-    "topic": "Contest",
+    "topic": "Contest*",
     "docs": {
     },
     "links": [],
@@ -103,7 +103,7 @@
   },
   {
     "date": "04/22",
-    "topic": "DP Contest",
+    "topic": "DP Contest*",
     "docs": {
     },
     "links": [],
@@ -129,7 +129,7 @@
   },
   {
     "date": "05/06",
-    "topic": "Buffet Contest",
+    "topic": "Buffet Contest*",
     "docs": {
     },
     "links": [],
@@ -179,7 +179,7 @@
   },
   {
     "date": "06/03",
-    "topic": "Number theory",
+    "topic": "Number theory*",
     "docs": {
     },
     "links": [],
@@ -204,7 +204,7 @@
   },
   {
     "date": "06/17",
-    "topic": "Contest",
+    "topic": "Contest*",
     "docs": [],
     "links": [
     ],
@@ -213,7 +213,7 @@
   },
   {
     "date": "06/24",
-    "topic": "Buffet Contest",
+    "topic": "Buffet Contest*",
     "docs": {
     },
     "links": [],
