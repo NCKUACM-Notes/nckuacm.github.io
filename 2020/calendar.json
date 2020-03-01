@@ -1,0 +1,225 @@
+[
+  {
+    "date": "03/04",
+    "topic": "Introduction",
+    "docs": {
+    },
+    "exercise": {
+      "level": "kantan|futsuu|muzukashii",
+      "link": ""
+    },
+    "links": [],
+    "contest": "true",
+    "objectives": [
+      "成績計算",
+      "競技程式設計介紹",
+      "學期課程規劃",
+      "Beforehand Contest"
+    ]
+  },
+  {
+    "date": "03/11",
+    "topic": "I/O & Standard Template Library",
+    "docs": {
+    },
+    "links": [],
+    "exercise": {
+    },
+    "objectives": [
+      "I/O",
+      "Basic programming",
+      "Introduction",
+      "STL: vector, string, queue, stack, list, set, map, priority_queue, functions"
+    ]
+  },
+  {
+    "date": "03/18",
+    "topic": "Thought method",
+    "docs": {
+    },
+    "links": [],
+    "exercise": {
+    },
+    "objectives": [
+      "Divide and Conquer",
+      "Enumeration",
+      "Dynamic Programming",
+      "Fibonacci Sequence",
+      "Longest Increasing Subsequence"
+    ]
+  },
+  {
+    "date": "03/25",
+    "topic": "Searching Contest",
+    "docs": {
+    },
+    "links": [],
+    "exercise": {
+    },
+    "contest": "true",
+    "objectives": [
+      "Binary Search",
+      "std::lower_bound, std::upper_bound"
+    ]
+  },
+  {
+    "date": "04/01",
+    "topic": "Sorting & Graph",
+    "docs": {
+    },
+    "links": [],
+    "exercise": {
+    },
+    "objectives": [
+      "Merge sort",
+      "Counting sort",
+      "Discretization",
+      "Tree",
+      "Graph",
+      "DFS, BFS",
+      "Disjoint Sets"
+    ]
+  },
+  {
+    "date": "04/08",
+    "topic": "Contest",
+    "docs": {
+    },
+    "links": [],
+    "contest": "true",
+    "objectives": [
+    ]
+  },
+  {
+    "date": "04/15",
+    "topic": "Dynamic Programming",
+    "docs": [],
+    "links": [],
+    "objectives": [
+      "Longest Common Subsequence",
+      "Knapsack problem",
+      "Greedy"
+    ]
+  },
+  {
+    "date": "04/22",
+    "topic": "DP Contest",
+    "docs": {
+    },
+    "links": [],
+    "contest": "true",
+    "objectives": [
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "date": "04/29",
+    "topic": "Advanced Data Structure",
+    "docs": {
+    },
+    "links": [],
+    "exercise": {
+    },
+    "objectives": [
+      "Segment Tree",
+      "Binary Indexed Tree",
+      "Treap",
+      "Differences"
+    ]
+  },
+  {
+    "date": "05/06",
+    "topic": "Buffet Contest",
+    "docs": {
+    },
+    "links": [],
+    "contest": true,
+    "objectives": [
+      "Buffet"
+    ]
+  },
+  {
+    "date": "05/13",
+    "topic": "Graph",
+    "docs": {
+    },
+    "links": [],
+    "exercise": {
+    },
+    "objectives": [
+      "Single-Source Shortest Paths",
+      "All-Pairs Shortest Paths",
+      "Minimum Spanning Tree",
+      "A* search"
+    ]
+  },
+  {
+    "date": "05/20",
+    "topic": "Graph",
+    "docs": {
+    },
+    "links": [],
+    "objectives": [
+      "Articulation point",
+      "Strongly Connected Components"
+    ]
+  },
+  {
+    "date": "05/27",
+    "topic": "Matching & Flow",
+    "docs": {
+    },
+    "links": [],
+    "exercise": {
+    },
+    "objectives": [
+      "Bipartite Graph Matching",
+      "Flow"
+    ]
+  },
+  {
+    "date": "06/03",
+    "topic": "Number theory",
+    "docs": {
+    },
+    "links": [],
+    "contest": true,
+    "objectives": [
+      "Modulus",
+      "Greatest Common Divisor"
+    ]
+  },
+  {
+    "date": "06/10",
+    "topic": "Number theory & Calculation",
+    "docs": {
+    },
+    "links": [],
+    "objectives": [
+      "Prime",
+      "Float FUCK",
+      "Karatsuba",
+      "Fast Exponential"
+    ]
+  },
+  {
+    "date": "06/17",
+    "topic": "Contest",
+    "docs": [],
+    "links": [
+    ],
+    "contest": true,
+    "objectives": []
+  },
+  {
+    "date": "06/24",
+    "topic": "Buffet Contest",
+    "docs": {
+    },
+    "links": [],
+    "contest": true,
+    "objectives": [
+      "Buffet"
+    ]
+  }
+]
