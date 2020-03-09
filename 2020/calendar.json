@@ -25,9 +25,12 @@
     "date": "03/11",
     "topic": "I/O & Standard Template Library",
     "docs": {
+      "material": "https://hackmd.io/@nckuacm/HyiqDuJSU"
     },
     "links": [],
     "exercise": {
+      "level": "kantan",
+      "link": "https://hackmd.io/@nckuacm/HJfFNEZSI"
     },
     "objectives": [
       "I/O",
