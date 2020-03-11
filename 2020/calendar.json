@@ -25,6 +25,8 @@
     "date": "03/11",
     "topic": "I/O & Standard Template Library",
     "docs": {
+      "ppt": "./slides/week2_1.pptx",
+      "pdf": "./slides/week2_1.pdf",
       "material": "https://hackmd.io/@nckuacm/HyiqDuJSU"
     },
     "links": [],
