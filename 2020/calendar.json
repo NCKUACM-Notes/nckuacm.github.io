@@ -56,6 +56,7 @@
       "Divide and Conquer",
       "Enumeration",
       "Dynamic Programming",
+      "Merge Sort",
       "Fibonacci Sequence",
       "Longest Increasing Subsequence"
     ]
@@ -83,8 +84,7 @@
     "exercise": {
     },
     "objectives": [
-      "Merge sort",
-      "Counting sort",
+      "Counting Sort",
       "Discretization",
       "Tree",
       "Graph",
