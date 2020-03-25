@@ -67,10 +67,13 @@
     "docs": {
       "ppt": "./slides/week4_1.pptx",
       "pdf": "./slides/week4_1.pdf",
-      "material": "https://hackmd.io/@nckuacm/rJq_pSQIU"
+      "material": "https://hackmd.io/@nckuacm/rJq_pSQIU",
+      "solution": "https://hackmd.io/@nckuacm/S1LdxGtLL"
     },
     "links": [],
     "exercise": {
+      "level": "futsuu",
+      "link": "https://hackmd.io/@nckuacm/ByWenSFLI"
     },
     "contest": "true",
     "objectives": [
