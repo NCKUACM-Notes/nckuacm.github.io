@@ -58,13 +58,43 @@
                 <i class="fas fa-file-powerpoint" aria-hidden="true"></i>
               </a>
               <% } %>
+              <% if(day.docs.ppt1) { %>
+              <a title="PPT1" href=<%= day.docs.ppt1 %> target="_blank">
+                <i class="fas fa-file-powerpoint" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.ppt2) { %>
+              <a title="PPT2" href=<%= day.docs.ppt2 %> target="_blank">
+                <i class="fas fa-file-powerpoint" aria-hidden="true"></i>
+              </a>
+              <% } %>
               <% if(day.docs.pdf) { %>
               <a title="PDF" href=<%= day.docs.pdf %> target="_blank">
                 <i class="far fa-file-pdf" aria-hidden="true"></i>
               </a>
               <% } %>
+              <% if(day.docs.pdf1) { %>
+              <a title="PDF1" href=<%= day.docs.pdf1 %> target="_blank">
+                <i class="far fa-file-pdf" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.pdf2) { %>
+              <a title="PDF2" href=<%= day.docs.pdf2 %> target="_blank">
+                <i class="far fa-file-pdf" aria-hidden="true"></i>
+              </a>
+              <% } %>
               <% if(day.docs.material) { %>
               <a title="Material" href=<%= day.docs.material %> target="_blank">
+                <i class="fab fa-pagelines" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.material1) { %>
+              <a title="Material1" href=<%= day.docs.material1 %> target="_blank">
+                <i class="fab fa-pagelines" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.material2) { %>
+              <a title="Material2" href=<%= day.docs.material2 %> target="_blank">
                 <i class="fab fa-pagelines" aria-hidden="true"></i>
               </a>
               <% } %>

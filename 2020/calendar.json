@@ -85,11 +85,14 @@
     "date": "04/01",
     "topic": "Sorting & Graph",
     "docs": {
+      "material1": "https://hackmd.io/@nckuacm/BJqhqDnL8",
+      "material2": "https://hackmd.io/@nckuacm/BJ6l2P2UL"
     },
     "links": [],
     "exercise": {
     },
     "objectives": [
+      "Merge Sort",
       "Counting Sort",
       "Discretization",
       "Tree",
