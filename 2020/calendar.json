@@ -85,6 +85,8 @@
     "date": "04/01",
     "topic": "Sorting & Graph Structures",
     "docs": {
+      "ppt": "./slides/week5_1.pptx",
+      "pdf": "./slides/week5_1.pdf",
       "material1": "https://hackmd.io/@nckuacm/BJqhqDnL8",
       "material2": "https://hackmd.io/@nckuacm/BJ6l2P2UL"
     },
