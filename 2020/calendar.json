@@ -116,8 +116,14 @@
   {
     "date": "04/15",
     "topic": "Dynamic Programming",
-    "docs": [],
+    "docs": {
+      "material": "https://hackmd.io/@nckuacm/S1Adidxu8"
+    },
     "links": [],
+    "exercise": {
+      "level": "muzukashii",
+      "link": "https://hackmd.io/@nckuacm/Sy5is6ldI"
+    },
     "objectives": [
       "Longest Common Subsequence",
       "Knapsack problem",
