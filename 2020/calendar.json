@@ -117,6 +117,8 @@
     "date": "04/15",
     "topic": "Dynamic Programming",
     "docs": {
+      "ppt": "./slides/week7_1.pptx",
+      "pdf": "./slides/week7_1.pdf",
       "material": "https://hackmd.io/@nckuacm/S1Adidxu8"
     },
     "links": [],
