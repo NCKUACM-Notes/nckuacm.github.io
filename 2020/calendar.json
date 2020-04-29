@@ -145,7 +145,7 @@
   },
   {
     "date": "04/29",
-    "topic": "Data Structure",
+    "topic": "Data Structures",
     "docs": {
     },
     "links": [],
@@ -154,7 +154,6 @@
     "objectives": [
       "Segment Tree",
       "Binary Indexed Tree",
-      "Treap",
       "Differences"
     ]
   },
