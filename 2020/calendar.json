@@ -196,7 +196,8 @@
     "links": [],
     "objectives": [
       "Articulation point",
-      "Strongly Connected Components"
+      "Strongly Connected Components",
+      "Lowest Common Ancestor"
     ]
   },
   {
