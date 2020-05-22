@@ -183,6 +183,8 @@
     },
     "links": [],
     "exercise": {
+      "level": "futsuu",
+      "link": "https://hackmd.io/@nckuacm/Sytx9DSoU"
     },
     "objectives": [
       "Single-Source Shortest Paths",
