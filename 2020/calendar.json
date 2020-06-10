@@ -244,7 +244,8 @@
     "topic": "Number theory & Calculation",
     "docs": {
       "ppt": "./slides/week15_1.pptx",
-      "pdf": "./slides/week15_1.pdf"
+      "pdf": "./slides/week15_1.pdf",
+      "material": "https://hackmd.io/@nckuacm/SJKINif3I"
     },
     "links": [],
     "objectives": [
