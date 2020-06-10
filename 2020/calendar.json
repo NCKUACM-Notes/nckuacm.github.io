@@ -217,6 +217,8 @@
     },
     "links": [],
     "exercise": {
+      "level": "muzukashii",
+      "link": "https://hackmd.io/@nckuacm/Hy6Rb36nL"
     },
     "objectives": [
       "Bipartite Graph Matching",
