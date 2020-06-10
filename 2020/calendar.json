@@ -243,6 +243,8 @@
     "date": "06/10",
     "topic": "Number theory & Calculation",
     "docs": {
+      "ppt": "./slides/week15_1.pptx",
+      "pdf": "./slides/week15_1.pdf"
     },
     "links": [],
     "objectives": [
