@@ -250,7 +250,7 @@
     "links": [],
     "objectives": [
       "Prime",
-      "Float FUCK",
+      "Floating point precision",
       "Karatsuba",
       "Fast Exponential"
     ]
