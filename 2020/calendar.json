@@ -229,12 +229,9 @@
     "date": "06/03",
     "topic": "Number theory*",
     "docs": {
-<<<<<<< HEAD
-        "solution": "https://hackmd.io/@nckuacm/SksuXTOn8"
-=======
+      "solution": "https://hackmd.io/@nckuacm/SksuXTOn8",
       "ppt": "https://hackmd.io/@nckuacm/rJhRPee2U#",
       "material": "https://hackmd.io/@nckuacm/SJiGbcM2U"
->>>>>>> 73079536d34e3e586b049fd5cef2e511ea0c58d5
     },
     "links": [],
     "contest": true,
