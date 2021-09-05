@@ -1,0 +1,14 @@
+{
+  "name": "nckuacm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "gen": "node generate.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
+}

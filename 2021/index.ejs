@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="shortcut icon" href="icon.ico">
+    <title>2021 Fall NCKU ACM Training Courses</title>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js" charset="utf-8"></script>
+
+    <!-- Semantic UI -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.6/semantic.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.6/semantic.min.js" charset="utf-8"></script>
+  </head>
+  <body>
+    <div class="ui center aligned raised segment inverted" style="background:rgba(0, 0, 0, 0.8);">
+      <img class="ui image" src="./images/nckuacm_banner.png" style="height: 70%; width: 50%; margin: auto; background:rgba(255, 234, 229, 0.8); border-radius: 12%"/>
+      <h1 class="ui center aligned huge header" style="color:white">2021 Fall NCKU ACM Training Courses</h1>
+      <h2 class="ui center aligned header" style="color:white">Discuss platform: <a style="color:#befffc;text-decoration:underline" href="https://discord.gg/WM7heXn" target="_blank">https://discord.gg/WM7heXn</a></h2>
+    </div>
+
+    <!-- Information -->
+    <div class="ui raised segment">
+      <h1 class="ui center aligned huge header" style="font-size: 3em;">Information</h1><br>
+      <h2 class="ui center aligned header">上課時間：週三 18:30 ~ 21:30</h2>
+      <h2 class="ui center aligned header">上課教室：3F 65304 電腦教室</h2>
+      <h2 class="ui center aligned header">助教信箱：<a href="mailto:nckuacm@imslab.org">nckuacm@imslab.org</a></h2>
+    </div>
+
+    <!-- Syllabus -->
+    <div class="ui raised segment">
+      <h1 class="ui center aligned huge header" style="font-size: 3em;">Syllabus</h1><br>
+      <h3 align="right">有星號(*)表示該天有競賽</h3>
+      <table class="table table-hover table-responsive">
+        <thead>
+          <tr>
+            <th style="width: 5%">#</th>
+            <th style="width: 15%">Date</th>
+            <th style="width: 38%">Topic</th>
+            <th style="width: 12%"></th>
+            <th style="width: 30%">Detail</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% json.forEach((day, idx) => { %>
+          <tr class=<%= day.contest ? "contest" : "nocontest" %>>
+            <td><%= idx+1 %></td>
+            <td><%= day.date %></td>
+            <td><%= day.topic %></td>
+            <td>
+              <% if(day.docs.ppt) { %>
+              <a title="PPT" href=<%= day.docs.ppt %> target="_blank">
+                <i class="fas fa-file-powerpoint" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.ppt1) { %>
+              <a title="PPT1" href=<%= day.docs.ppt1 %> target="_blank">
+                <i class="fas fa-file-powerpoint" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.ppt2) { %>
+              <a title="PPT2" href=<%= day.docs.ppt2 %> target="_blank">
+                <i class="fas fa-file-powerpoint" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.pdf) { %>
+              <a title="PDF" href=<%= day.docs.pdf %> target="_blank">
+                <i class="far fa-file-pdf" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.pdf1) { %>
+              <a title="PDF1" href=<%= day.docs.pdf1 %> target="_blank">
+                <i class="far fa-file-pdf" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.pdf2) { %>
+              <a title="PDF2" href=<%= day.docs.pdf2 %> target="_blank">
+                <i class="far fa-file-pdf" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.material) { %>
+              <a title="Material" href=<%= day.docs.material %> target="_blank">
+                <i class="fab fa-pagelines" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.material1) { %>
+              <a title="Material1" href=<%= day.docs.material1 %> target="_blank">
+                <i class="fab fa-pagelines" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.material2) { %>
+              <a title="Material2" href=<%= day.docs.material2 %> target="_blank">
+                <i class="fab fa-pagelines" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.docs.solution) { %>
+              <a title="Solution" href=<%= day.docs.solution %> target="_blank">
+                <i class="fas fa-tint" aria-hidden="true"></i>
+              </a>
+              <% } %>
+              <% if(day.exercise) { %>
+              <% if(day.exercise.level == "kantan") { %>
+              <a title="Exercise" href=<%= day.exercise.link %> target="_blank">
+                <i class="fas fa-sun" aria-hidden="true"></i>
+              </a>
+              <% } else if(day.exercise.level == "futsuu") { %>
+              <a title="Exercise" href=<%= day.exercise.link %> target="_blank">
+                <i class="fas fa-cloud-sun" aria-hidden="true"></i>
+              </a>
+              <% } else if(day.exercise.level == "muzukashii") { %>
+              <a title="Exercise" href=<%= day.exercise.link %> target="_blank">
+                <i class="fas fa-cloud-sun-rain" aria-hidden="true"></i>
+              </a>
+              <% }} %>
+              <% day.links.forEach((link) => { %>
+              <a href=<%= link %> target="_blank">
+                <i class="fa fa-external-link-alt" aria-hidden="true"></i>
+              </a>
+              <% }) %>
+            </td>
+            <td class="detail">
+              <% day.objectives.forEach((obj) => { %>
+              <div><%= obj %></div>
+              <% }) %>
+            </td>
+          </tr>
+          <% }) %>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Instructor and TAs -->
+    <div class="ui raised segment">
+      <h1 class="ui center aligned header" style="font-size: 3em;">Instructor</h1><br>
+      <h2 class="ui image header">
+        <img src="tsaimh.jpg" class="ui tiny circular image">
+        <div class="content">
+          Meng-Hsun Tsai<br>
+          <a href="http://imslab.org/~tsaimh/" target="_blank"><button class="ui website button"><i class="world icon"></i> Website </button></a>
+          <a href="http://imslab.org/cht/" target="_blank"><button class="ui website button"><i class="world icon"></i> Lab </button></a>
+        </div>
+      </h2><br><br>
+    </div>
+
+    <div class="ui inverted vertical footer segment form-page">
+      <div class="ui container">NCKU-ACM 2020. All Rights Reserved</div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip();
+      });
+    </script>
+
+    <!-- Custom Style -->
+    <style>
+      html, body {
+        width:100%;
+      }
+      body {
+        margin: 50px auto;
+        background-image: url('./images/bg.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+      .contest>td:nth-child(3){
+        font-weight: bold;
+      }
+      .contest {
+        background-color: rgba(255, 230, 157, 0.4);
+      }
+      .segment:not(.footer){
+        margin: 50px auto;
+        padding: 50px 100px 50px 100px;
+        width: 75%;
+      }
+      table {
+        font-size: 1.5em;
+      }
+      .table > tbody > tr > td {
+        vertical-align: middle;
+      }
+      .detail {
+        font-size: 0.8em;
+      }
+      a[disabled] {
+        pointer-events: none;
+        color: gray;
+      }
+      .dropdown-menu > a.dropdown-item {
+        display: block;
+        padding: 5px 10px;
+      }
+      .dropdown-menu > a.dropdown-item:hover {
+        background: #e7e7e7;
+      }
+      /* mobile version */
+      @media all and (max-width:767px) {
+        .segment:not(.footer){
+          padding: 25px;
+          width: 90%;
+        }
+      }
+    </style>
+    <script type="text/javascript">
+      document.getElementById("template").innerHTML = window.template;
+    </script>
+  </body>
+</html>
