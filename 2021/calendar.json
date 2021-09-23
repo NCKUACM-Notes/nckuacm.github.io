@@ -21,6 +21,8 @@
     "date": "09/22",
     "topic": "C++",
     "docs": {
+      "material": "https://hackmd.io/@XDEv11/NCKU-AdvCP-2021-CXX",
+      "video": "https://www.youtube.com/watch?v=3nS3v9k_1_A"
     },
     "links": [],
     "exercise": {
@@ -34,6 +36,8 @@
     "date": "09/29",
     "topic": "Way of Thinking",
     "docs": {
+      "material": "https://hackmd.io/@XDEv11/NCKU-AdvCP-2021-WayOfThinking",
+      "video": "https://www.youtube.com/watch?v=mJoQ4XlvOIs"
     },
     "links": [],
     "exercise": {
