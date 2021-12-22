@@ -222,6 +222,9 @@
     "date": "12/22",
     "topic": "Number theory & Calculation",
     "docs": {
+      "ppt": "./slides/week15_1.pptx",
+      "pdf": "./slides/week15_1.pdf",
+      "video": "https://www.youtube.com/watch?v=C0AVL0ZIEuo"
     },
     "links": [],
     "objectives": [
