@@ -250,8 +250,10 @@
     "date": "01/05",
     "topic": "Flow & Matching & Cover",
     "docs": {
-      "ppt": "./slides/week15_1.pptx",
-      "pdf": "./slides/week15_1.pdf",
+      "ppt": "./slides/week17_1.pptx",
+      "pdf": "./slides/week17_1.pdf",
+      "material1": "https://hackmd.io/@XDEv11/NCKU-AdvCP-2021-Matching",
+      "material2": "https://hackmd.io/@XDEv11/NCKU-AdvCP-2021-Cover",
       "video1": "https://www.youtube.com/watch?v=L6fN7mA3kjc",
       "video2": "https://www.youtube.com/watch?v=6Au3OGvtJlE"
     },
