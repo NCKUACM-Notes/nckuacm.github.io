@@ -237,9 +237,9 @@
     "date": "12/29",
     "topic": "Contest*",
     "docs": {
+      "solution": "https://hackmd.io/@nckuacm/rJvdDycsK"
     },
     "links": [
-      "solution": "https://hackmd.io/@nckuacm/rJvdDycsK"
     ],
     "contest": true,
     "objectives": [
@@ -250,6 +250,10 @@
     "date": "01/05",
     "topic": "Flow & Matching & Cover",
     "docs": {
+      "ppt": "./slides/week15_1.pptx",
+      "pdf": "./slides/week15_1.pdf",
+      "video1": "https://www.youtube.com/watch?v=L6fN7mA3kjc",
+      "video2": "https://www.youtube.com/watch?v=6Au3OGvtJlE"
     },
     "links": [
     ],
